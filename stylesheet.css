@@ -1,0 +1,47 @@
+/* Styling for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+
+#main-title {
+    color: #d84b76;
+    /* Darker pink */
+}
+
+/* Styling for the content section */
+#content-section {
+    padding: 1rem;
+}
+
+/* Styling for individual content blocks */
+.content-block {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #d84b76;
+    /* Pink border */
+    border-radius: 5px;
+}
+
+/* Styling for links */
+a {
+    color: #d84b76;
+    /* Pink color */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f8a0b2;
+    /* Lighter pink on hover */
+}
+
+
+/* Image styling */
+img {
+    max-width: 100%;
+    height: auto;
+}
